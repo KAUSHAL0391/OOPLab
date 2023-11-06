@@ -1,0 +1,8 @@
+write a python program demonstrate slicing linked list and string
+to display most frequently occured numbeer in the list of number
+to display pattern which has stars in it also ennumerate displpay each row number
+to create dictionary where are keys natural numbers and values are squares of number
+to generate a random number
+given string is palindrome or not
+create csv filewhich contains names of friends followed by ph no
+to which accepts email using regular expressions
